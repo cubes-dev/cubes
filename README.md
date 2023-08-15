@@ -5,7 +5,6 @@
 ┃┃╋┏┫┃┃┃┏┓┃┃━┫━━┫
 ┃┗━┛┃┗┛┃┗┛┃┃━╋━━┃
 ┗━━━┻━━┻━━┻━━┻━━┛
-
 ========
 
 **🌎 Cubes is an open source, decentralized social media platform base on **[Misskey](https://misskey-hub.net/)** that's free forever! 🚀**
